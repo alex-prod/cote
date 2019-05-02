@@ -13,6 +13,8 @@ cote — A Node.js library for building zero-configuration microservices
 haproxy, redis, rabbitmq or _anything else_. It is batteries — and chargers! —
 included.**
 
+**Patched to support [portfinder](https://github.com/alex-prod/node-portfinder) highestPort crash
+
 Join us on
 [![cote Slack](http://slack.cotejs.org/badge.svg)](http://slack.cotejs.org)
 for anything related to cote.
